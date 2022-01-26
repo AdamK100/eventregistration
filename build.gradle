@@ -1,5 +1,3 @@
 task stage () {
     dependsOn ':EventRegistration-Backend:assemble'
 }
-
-sourceCompatibility='17.0'
